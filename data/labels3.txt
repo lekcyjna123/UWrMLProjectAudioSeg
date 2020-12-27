@@ -1,5 +1,5 @@
 timestamp, label, note
-1, music,
+0:01, music,
 2:10, music, jingle
 2:24, speech, music in the background
 3:11, music,
