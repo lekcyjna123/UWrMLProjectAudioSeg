@@ -1,4 +1,7 @@
 #audio files
 data/*.opus
+data/*.wav
 desktop.ini
-
+dataset
+subfragments
+.ipynb_checkpoints
