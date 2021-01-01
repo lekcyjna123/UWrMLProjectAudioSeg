@@ -1,6 +1,9 @@
 #audio files
 data/*.opus
 data/*.wav
+data/audio1/
+data/audio2/
+data/audio3/
 desktop.ini
 dataset
 subfragments
