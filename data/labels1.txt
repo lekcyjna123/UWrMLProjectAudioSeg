@@ -1,6 +1,5 @@
 timestamp,label,note
-0:00:01,silence,
-0:00:04,music,
+0:00:01,music,
 0:02:23,speech,
 0:04:33,music,
 0:09:07,speech,
@@ -13,9 +12,8 @@ timestamp,label,note
 0:23:13,music,
 0:26:12,speech,
 0:27:17,music,
-0:29:48,speech,
 0:29:42,music,jingle
-0:29:48,speech
+0:29:48,speech,
 0:32:17,music,jingle
 0:32:24,speech,
 0:32:30,music,
@@ -76,3 +74,4 @@ timestamp,label,note
 3:29:42,music,jingle
 3:29:48,speech
 3:33:08,music,jingle
+3:33:20,music,
