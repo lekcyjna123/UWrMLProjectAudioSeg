@@ -30,8 +30,8 @@ Our project comprises of two approaches: Supervised and unsupervised where after
 Random Forest - 96.96% - After Smoothing - 99.58%
 KNN - 92.91% - After Smoothing 94.23%
 ### Unsupervised Learning
-Kmeans - 80.17% - After Smoothing - 87.05%
-Kmeans Faiss - 80.31% -  After Smoothing - 88.03%
+Kmeans - 80.17% - After Smoothing - 80.05%
+Kmeans Faiss - 80.31% -  After Smoothing - 80.03%
 
 ## Status
 Project is: _finished_,
